@@ -1,0 +1,10 @@
+article {
+  width: 100%;
+  margin: 2rem auto;/*no influye*/
+  line-height: 2rem;
+}
+p {
+  max-height: 10rem;/*line-height por nº de líneas*/
+  overflow: hidden;
+  text-align: justify; 
+}
